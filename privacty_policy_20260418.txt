@@ -39,6 +39,43 @@ INTERNET： 用於加載廣告內容。
 mas.lcw@gmail.com
 
 
+Privacy Policy
+Effective Date: April 18, 2026
+Welcome to our application (hereinafter referred to as "the App"). The App is designed to identify whether Bluetooth devices support the Modbus communication protocol. 
+We value your privacy and are committed to protecting your personal data. This policy explains how we handle information.
+
+1. Information We Collect
+To provide the App’s core functions and support operations, we may access the following categories of data:
+
+•	Bluetooth and Location Permissions: On the Android system, scanning for Bluetooth devices requires "Bluetooth Scan" or "Location" permissions. 
+The App uses these permissions solely to detect nearby Bluetooth devices and determine their protocol compatibility. 
+We do not collect, store, or upload your actual geographic location.
+•	Device Identifiers: To display advertisements and optimize user experience, certain non-personally identifiable information may be collected automatically, such as device model, operating system version, and unique device identifiers (e.g., Advertising ID).
+
+2. How We Use Information
+The information collected is used only for the following purposes:
+•	Functional Operations: To perform Bluetooth scanning and Modbus protocol identification.
+•	Advertisement Delivery: This App displays advertisements on specific pages. Third-party ad providers (such as Google AdMob) may use your Advertising ID to show relevant ads and measure ad performance.
+
+3. Third-Party Service Providers
+The App may integrate third-party SDKs. Current partners include:
+•	Ad Platforms: (e.g., Google AdMob). These third parties may collect device information, and their data processing is governed by their respective privacy policies.
+
+4. Data Security
+We are committed to protecting your data. Since the App does not upload personally identifiable information (such as your name or email) to our servers, the risk to your personal data is minimal.
+
+5. Permissions Overview
+•	BLUETOOTH / BLUETOOTH_ADMIN / BLUETOOTH_SCAN: Used to connect and scan for Bluetooth devices.
+•	ACCESS_FINE_LOCATION: Required by the Android system to perform Bluetooth scanning.
+•	INTERNET: Used to load advertisement content.
+
+6. Your Rights
+You can revoke Bluetooth or Location permissions at any time via your Android system settings. Doing so will disable the scanning functionality but will not affect your right to uninstall the App.
+
+7. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at: [Insert your mas.lcw@gmail.com
+
+
 
 
 給開發者的建議：
